@@ -1,3 +1,10 @@
+# TDE2 - Estrutura de Dados
+
+## Integrantes
+- Pedro Pimentel
+- Gabriel Tomé
+- Vinícius Felde
+  
 ## RA1 - Fila circular e Merge
 
 A fila foi feita usando um array de números inteiros. Ela é circular porque quando chega ao final do array a próxima posição volta a ser a primeira, desde que esteja livre.
